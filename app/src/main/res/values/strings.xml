@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spiner</string>
+
+    <string-array name="countryName">
+        <item>bangladesh</item>
+        <item>india</item>
+        <item>pakistan</item>
+        <item>nepal</item>
+        <item>bhutan</item>
+        <item>srilanka</item>
+        <item>maldip</item>
+        <item>russia</item>
+
+
+    </string-array>
+
+</resources>
